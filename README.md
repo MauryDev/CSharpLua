@@ -59,11 +59,11 @@ Here are some examples demonstrating the usage of the CSharpLua library:
 
 [Example](example)
 
-For more examples, refer to the [Examples](examples) directory.
+For more examples, refer to the [Examples](example) directory.
 
 ## Contributing
 
-Contributions to the CSharpLua library are welcome! If you find a bug, have a feature request, or want to contribute code, please follow the guidelines in the [Contributing](CONTRIBUTING.md) file.
+Contributions to the CSharpLua library are welcome! If you find a bug, have a feature request, or want to contribute code.
 
 ## License
 
